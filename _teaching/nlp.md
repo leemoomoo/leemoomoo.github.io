@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/nlp
 venue: "CSUFT, AI"
-date: 2023-01-01
+date: 2025-01-01
 location: "Changsha, China"
 ---
 
