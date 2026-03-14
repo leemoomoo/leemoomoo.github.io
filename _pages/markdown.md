@@ -16,11 +16,11 @@ UK
 
 
 ### Email
-[firstname].[lastname]16 [at] imperial.ac.uk
+lxy0731@csuft.edu.cn
+lxyimayday@gmail.com
 
 ### Address
-Office 617 \
-Huxley Building \
-180 Queen's Gate, South Kensington \
-London SW7 2AZ \
-UK
+Qiushi Building\
+Central South University of Forestry and Technology\ 
+Changsha, Hunan\
+China
