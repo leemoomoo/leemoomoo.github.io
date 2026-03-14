@@ -1,6 +1,7 @@
 ---
 title: "Undergraduate course"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/undergraduate-course
 venue: "CSUFT, AI"
 date: 2023-01-01
