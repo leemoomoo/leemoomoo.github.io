@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/lxy.png"
+  avatar           : "lxy.jpg"
   name             : "Xiaoyao Li"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer of AI at Central South University of Forestry and Technology"
