@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/software-design
 venue: "CSUFT, AI"
-date: 2023-01-01
+date: 2024-01-01
 location: "Changsha, China"
 ---
 
