@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoyao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer of AI"
+  bio              : "Lecturer of AI at Central South University of Forestry and Technology"
   location         : "Changsha, China"
-  employer         : "Central South University of Forestry and Technology"
+  employer         : "CSUFT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lxy0731@csuft.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4600-1215"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/leemoomoo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
