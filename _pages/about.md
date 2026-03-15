@@ -30,14 +30,7 @@ Image processing
 Educational data mining
 
 ## Recent News
-- [10/2025] Our paper *On the Robustness of Kernel Goodness-of-Fit Tests*, coauthored with Professor [François-Xavier Briol](https://fxbriol.github.io/), has been accepted to JMLR. [Link](https://jmlr.org/papers/v26/24-1365.html).
+- [02/2026] Our paper *GLLM-KT: A Graph-Incorporated Ultra-Small Large Language Model for Knowledge Tracing*, has been accepted to PAKDD 2026.
 
-- [12/2024] I joined [QuantCo](https://www.quantco.com/) as a full-time Data Scientist. Excited to explore the more applied side of machine learning in this role!
-
-- [12/2024] I successfully defended my PhD thesis! A huge thank-you to my examiners Dr. [Nikolas Kantas](https://www.ma.imperial.ac.uk/~nkantas/) and Prof. [Chris Oates](https://oates.work/) for the insightful discussions during the viva!
-
-- [08/2024] From 12th to 16th August 2024, I will attend the 11th Bernoulli-IMS World Congress in Probability and Statistics, and present our recent preprint [On the Robustness of Kernel Goodness-of-Fit Tests](https://www.arxiv.org/abs/2408.05854), a joint work with Dr [François-Xavier Briol](https://fxbriol.github.io/). Come and join our session on Wednesday 14th at 11am if you are interested!
-
-- [08/2024] Our new preprint [On the Robustness of Kernel Goodness-of-Fit Tests](https://www.arxiv.org/abs/2408.05854) is out! This is a joint work with Dr [François-Xavier Briol](https://fxbriol.github.io/).
 
 
