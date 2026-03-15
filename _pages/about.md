@@ -26,57 +26,7 @@ Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">University of Macau, Macau</span>
 
 
-## Education 
 
-<!-- Ph.D. -->
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.2em;">
-  <span>:mortar_board: Ph.D. in Control Science and Engineering</span>
-  <span style="color: gray; white-space: nowrap;">2013-2022</span>
-</div>
-<div style="margin-left: 2.5em; margin-bottom: 1.2em;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Supervisor**: Professor [Jing Zhang](https://eeit.hnu.edu.cn/info/1278/4501.htm) and Professor [Lianhong Wang](https://eeit.hnu.edu.cn/info/1412/4633.htm)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">College of Electrical and Information Engineering, Hunan University</span>
-</div>
-
-<!-- B.Sc. -->
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.2em;">
-  <span>:mortar_board: B.Sc. in Mathematics and Applied Mathematics</span>
-  <span style="color: gray; white-space: nowrap;">2008-2012</span>
-</div>
-<div style="margin-left: 2.5em; margin-bottom: 1.5em;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">China University of Petroleum, Beijing, China</span>
-</div>
-
-## Academic and Research Experience
-
-<!-- 当前职位 -->
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.2em;">
-  <span>:woman_teacher: <strong>Lecturer</strong> at School of Advanced Interdisciplinary Studies</span>
-  <span style="color: gray; white-space: nowrap;">2024.03 – Present</span>
-</div>
-<div style="margin-left: 2.5em; margin-bottom: 1.2em;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">Central South University of Forestry and Technology (CSUFT)</span>
-</div>
-
-<!-- 前职位1 -->
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.2em;">
-  <span>:woman_teacher: <strong>Lecturer</strong> at College of Computer and Information Engineering</span>
-  <span style="color: gray; white-space: nowrap;">2022.09 – 2024.03</span>
-</div>
-<div style="margin-left: 2.5em; margin-bottom: 1.2em;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">Central South University of Forestry and Technology (CSUFT)</span>
-</div>
-
-<!-- RA经历 -->
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.2em;">
-  <span>:woman_scientist: <strong>Research Assistant (R.A.)</strong> at Department of Computer and Information Science</span>
-  <span style="color: gray; white-space: nowrap;">2017.02 – 2017.12</span>
-</div>
-<div style="margin-left: 2.5em; margin-bottom: 1.5em;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Advisor**: Professor [Yicong Zhou](https://www.fst.um.edu.mo/personal/yicongzhou/)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">University of Macau, Macau</span>
-</div>
- 
 
 A data-driven personal website
 ======
