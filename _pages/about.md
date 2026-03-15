@@ -14,9 +14,20 @@ Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial
 :mortar_board: B.Sc. in Mathematics and Applied Mathematics, 2008-2012, <span style="color: gray">China University of Petroleum, Beijing, China</span>
 
 ## Academic and Research Experience
-:woman_teacher: Lecturer in School of Advanced Interdisciplinary Studies, 2024.03 – Present, <span style="color: gray">CSUFT</span> \
-:woman_teacher: Lecturer in College of Computer and Information Engineering, 2022.09 – 2024.03, <span style="color: gray">CSUFT</span> \
-:woman_scientist: R.A. in Department of Computer and Information Science, 2017.02 – 2017.12, <span style="color: gray">University of Macau, Macau</span>
+:woman_teacher: Lecturer at School of Advanced Interdisciplinary Studies, 2024.03 – Present, <span style="color: gray">CSUFT</span> \
+:woman_teacher: Lecturer at College of Computer and Information Engineering, 2022.09 – 2024.03, <span style="color: gray">CSUFT</span> \
+:woman_scientist: R.A. at Department of Computer and Information Science, 2017.02 – 2017.12, <span style="color: gray">University of Macau, Macau</span> 
+
+## Academic Supervision
+
+- **Ph.D. Supervisor**: Professor Jing Zhang  
+  College of Electrical and Information Engineering, Hunan University
+
+- **M.Sc. Supervisor**: Professor Lianhong Wang  
+  College of Electrical and Information Engineering, Hunan University
+
+- **Research Advisor**: Professor Yicong Zhou  
+  Department of Computer and Information Science, University of Macau
 
 A data-driven personal website
 ======
