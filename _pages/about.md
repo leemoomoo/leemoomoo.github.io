@@ -30,7 +30,7 @@ Image processing
 Educational data mining
 
 ## Recent News
-- [02/2026] Our paper *GLLM-KT: A Graph-Incorporated Ultra-Small Large Language Model for Knowledge Tracing*, has been accepted to PAKDD 2026.
+- [02/2026] Our paper *GLLM-KT: A Graph-Incorporated Ultra-Small Large Language Model for Knowledge Tracing* has been accepted by **PAKDD 2026**.
 
 
 
