@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Services"
+    url: /services/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -20,8 +20,8 @@ main:
   - title: "Projects"
     url: /projects/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Students"
+    url: /students/
     
   - title: "CV"
     url: /cv/
