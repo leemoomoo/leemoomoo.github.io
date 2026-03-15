@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial Intelligence, School of Advanced Interdisciplinary Studies, Central South University of Forestry and Technology (CSUFT). I joined the [Institute of Artificial Intelligenc Application](https://www.x-mol.com/groups/csuftai) in 2022. My research interests lie in the image processing and educational data mining. 
+Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial Intelligence, School of Advanced Interdisciplinary Studies, Central South University of Forestry and Technology (CSUFT). I joined the [Institute of Artificial Intelligenc Application](https://www.x-mol.com/groups/csuftai) in 2022. My research interests lie in image processing and educational data mining. 
 
 
 A data-driven personal website
