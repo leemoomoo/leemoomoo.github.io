@@ -10,8 +10,8 @@ redirect_from:
 Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial Intelligence, School of Advanced Interdisciplinary Studies, Central South University of Forestry and Technology (CSUFT). I joined the [Institute of Artificial Intelligenc Application](https://www.x-mol.com/groups/csuftai) in 2022. My research interests lie in image processing and educational data mining. 
 
 ## Education 
-:mortar_board: Ph.D. in Control Science and Engineering, 2013-2022, <span style="color: gray;">Hunan University, China</span> \
-:mortar_board: B.Sc. in Mathematics and Applied Mathematics, 2008-2012, <span style="color: gray;">China University of Petroleum, Beijing, China</span>
+:mortar_board: Ph.D. in Control Science and Engineering, 2013-2022, <span style="color: gray">Hunan University, China</span> \
+:mortar_board: B.Sc. in Mathematics and Applied Mathematics, 2008-2012, <span style="color: gray">China University of Petroleum, Beijing, China</span>
 
 A data-driven personal website
 ======
