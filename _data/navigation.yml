@@ -23,11 +23,9 @@ main:
   - title: "Students"
     url: /students/
     
-  - title: "CV"
-    url: /cv/
     
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /cv/
     
   - title: "Contact"
     url: /contact/
