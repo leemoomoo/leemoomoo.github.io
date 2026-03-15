@@ -11,7 +11,7 @@ Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial
 
 ## Education 
 :mortar_board: Ph.D. in Control Science and Engineering, 2013-2022  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Supervisor**: Professor Jing Zhang and Professor Lianhong Wang  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Supervisor**: Professor [Jing Zhang](https://eeit.hnu.edu.cn/info/1278/4501.htm) and Professor [Lianhong Wang](https://eeit.hnu.edu.cn/info/1412/4633.htm)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">College of Electrical and Information Engineering, Hunan University</span>  
 :mortar_board: B.Sc. in Mathematics and Applied Mathematics, 2008-2012  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">China University of Petroleum, Beijing, China</span>
@@ -22,7 +22,7 @@ Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial
 :woman_teacher: Lecturer at College of Computer and Information Engineering, 2022.09 – 2024.03  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">CSUFT</span>  
 :woman_scientist: R.A. at Department of Computer and Information Science, 2017.02 – 2017.12  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Advisor**: Professor Yicong Zhou  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Advisor**: Professor [Yicong Zhou](https://www.fst.um.edu.mo/personal/yicongzhou/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">University of Macau, Macau</span>  
  
 
