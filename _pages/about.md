@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial Intelligence, School of Advanced Interdisciplinary Studies, Central South University of Forestry and Technology (CSUFT). I joined the [Institute of Artificial Intelligenc Application](https://www.x-mol.com/groups/csuftai) in 2022. My research interests lie in image processing and educational data mining. 
+Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial Intelligence, School of Advanced Interdisciplinary Studies, Central South University of Forestry and Technology (CSUFT). I joined the [Institute of Artificial Intelligenc Application](https://www.x-mol.com/groups/csuftai) in 2022. 
 
 ## Education 
 :mortar_board: 2013-2022, Ph.D. in Control Science and Engineering   
@@ -24,6 +24,10 @@ Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial
 :woman_scientist: 2017.02 – 2017.12, R.A. at Department of Computer and Information Science   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Advisor**: Professor [Yicong Zhou](https://www.fst.um.edu.mo/personal/yicongzhou/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">University of Macau, Macau</span>
+
+## Research Interests
+Image processing  
+Educational data mining
 
 ## Recent News
 - [10/2025] Our paper *On the Robustness of Kernel Goodness-of-Fit Tests*, coauthored with Professor [François-Xavier Briol](https://fxbriol.github.io/), has been accepted to JMLR. [Link](https://jmlr.org/papers/v26/24-1365.html).
