@@ -16,7 +16,7 @@ Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial
 ## Academic and Research Experience
 :woman_teacher: Lecturer in School of Advanced Interdisciplinary Studies, 2024.03 – Present, <span style="color: gray">CSUFT</span> \
 :woman_teacher: Lecturer in College of Computer and Information Engineering, 2022.09 – 2024.03, <span style="color: gray">CSUFT</span> \
-:woman_scientist: Research Assistant in Department of Computer and Information Science, 2017.02 – 2017.12, <span style="color: gray">University of Macau, Macau</span>
+:woman_scientist: R.A. in Department of Computer and Information Science, 2017.02 – 2017.12, <span style="color: gray">University of Macau, Macau</span>
 
 A data-driven personal website
 ======
