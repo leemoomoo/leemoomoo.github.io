@@ -9,6 +9,10 @@ redirect_from:
 
 Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial Intelligence, School of Advanced Interdisciplinary Studies, Central South University of Forestry and Technology (CSUFT). I joined the [Institute of Artificial Intelligenc Application](https://www.x-mol.com/groups/csuftai) in 2022. My research interests lie in image processing and educational data mining. 
 
+## Education 
+:mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span class="grey">Imperial College London</span> \
+:mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, <span class="grey">University of Cambridge</span> \
+:mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span class="grey">Imperial College London</span>
 
 A data-driven personal website
 ======
