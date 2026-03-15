@@ -11,8 +11,8 @@ Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial
 
 ## Education 
 :mortar_board: Ph.D. in Control Science and Engineering, 2013-2022  
-  **Supervisor**: Professor Jing Zhang and Professor Lianhong Wang  
-  College of Electrical and Information Engineering, Hunan University
+    **Supervisor**: Professor Jing Zhang and Professor Lianhong Wang  
+    College of Electrical and Information Engineering, Hunan University
   
 :mortar_board: B.Sc. in Mathematics and Applied Mathematics, 2008-2012, <span style="color: gray">China University of Petroleum, Beijing, China</span>
 
