@@ -25,6 +25,9 @@ Hi there! My name is Xiaoyao Li. I am a lecturer at the Department of Artificial
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Advisor**: Professor [Yicong Zhou](https://www.fst.um.edu.mo/personal/yicongzhou/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: gray">University of Macau, Macau</span>
 
+## Resources
+[**SSM**](https://github.com/leemoomoo/SSM) is a comprehensive collection of cognitive modeling methods, including Cognitive Diagnosis Models (CDM) and Knowledge Tracing (KT), along with datasets and team achievements for intelligent educational systems.
+
 ## Research Interests
 Image processing  
 Educational data mining
