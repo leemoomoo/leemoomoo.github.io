@@ -33,6 +33,7 @@ Image processing
 Educational data mining
 
 ## Recent News
+- [09/2026] Our paper *A Dual-Stream Cognitive Diagnosis Framework via Mastery-Fluency Disentanglement* has been accepted by **ADMA 2026**.
 - [08/2026] Our paper *PG-LLM-KT: An adaptable prerequisite-guided framework for knowledge tracing with frozen lightweight LLMs* has been accepted by **KBS**.
 - [02/2026] Our paper *GLLM-KT: A Graph-Incorporated Ultra-Small Large Language Model for Knowledge Tracing* has been accepted by **PAKDD 2026**.
 
